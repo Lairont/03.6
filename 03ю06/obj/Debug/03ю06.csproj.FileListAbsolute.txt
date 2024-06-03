@@ -1,0 +1,7 @@
+D:\задачи\03ю06\bin\Debug\03ю06.exe.config
+D:\задачи\03ю06\bin\Debug\03ю06.exe
+D:\задачи\03ю06\bin\Debug\03ю06.pdb
+D:\задачи\03ю06\obj\Debug\03ю06.csproj.AssemblyReference.cache
+D:\задачи\03ю06\obj\Debug\03ю06.csproj.CoreCompileInputs.cache
+D:\задачи\03ю06\obj\Debug\03ю06.exe
+D:\задачи\03ю06\obj\Debug\03ю06.pdb
